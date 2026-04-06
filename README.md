@@ -24,7 +24,7 @@ P.S. We take our work seriously, but not ourselves. So don't hesitate to reach o
 <li>Books & eBooks</li>
 
 <h2>Our Team</h2>
-CEO & Founder- Suhas Kunde <br>
+CEO & Founder- Me <br>
 CFO & Co-Founder- Aarush Sangai<br>
 
 <h2>Credits:</h2>
